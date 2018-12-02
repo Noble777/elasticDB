@@ -18,3 +18,19 @@
 2018-11-21 16:06:49,743 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-11-21 16:06:49,751 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-11-21 16:06:49,752 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/apple/IdeaProjects/elasticDB/src/test/resources
+2018-11-25 16:59:55,694 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-25 17:00:05,847 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+2018-11-25 17:00:05,884 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+2018-11-25 17:00:05,894 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+2018-11-25 17:00:06,649 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-25 17:00:06,658 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-11-25 17:00:06,667 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-25 17:00:06,668 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/apple/IdeaProjects/elasticDB/src/test/resources
+2018-12-01 22:43:25,899 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-01 23:00:12,131 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+2018-12-01 23:00:12,172 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+2018-12-01 23:00:12,184 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+2018-12-01 23:00:13,815 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-12-01 23:00:13,827 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-12-01 23:00:13,838 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-12-01 23:00:13,839 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/apple/IdeaProjects/elasticDB/src/test/resources
